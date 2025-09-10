@@ -1,5 +1,6 @@
 🚀 Brain-AI is an intelligent code generation platform built with React.js and powered by the Gemini API.
 It allows users to interact with AI and generate code snippets in multiple languages and frameworks such as HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS.
+It is Responsive in all devices....
 
 ✨ Key Features:
 **AI-Powered Code Generation – Users can input commands, and Brain-AI instantly generates accurate code.
