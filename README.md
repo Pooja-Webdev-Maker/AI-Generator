@@ -3,17 +3,17 @@ It allows users to interact with AI and generate code snippets in multiple langu
 
 ✨ Key Features:
 
-⚡ AI-Powered Code Generation – Users can input commands, and Brain-AI instantly generates accurate code.
+# AI-Powered Code Generation – Users can input commands, and Brain-AI instantly generates accurate code.
 
-🎨 Live Preview – See real-time design previews of the generated code.
+# Live Preview – See real-time design previews of the generated code.
 
-🛠 Multi-Framework Support – Choose your preferred technology (HTML, CSS, JS, Bootstrap, Tailwind).
+# Multi-Framework Support – Choose your preferred technology (HTML, CSS, JS, Bootstrap, Tailwind).
 
-📋 One-Click Copy – Easily copy generated code to use in your projects.
+# One-Click Copy – Easily copy generated code to use in your projects.
 
-📦 Export Option – Export code snippets directly for further development.
+# Export Option – Export code snippets directly for further development.
 
-🔄 State Management Integration – Smooth and efficient handling of user interactions and data.
+# State Management Integration – Smooth and efficient handling of user interactions and data.
 
 
 
